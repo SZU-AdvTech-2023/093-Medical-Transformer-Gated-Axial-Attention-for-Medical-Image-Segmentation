@@ -1,0 +1,8 @@
+@inproceedings{REPO093,
+    author = "Valanarasu, Jeya Maria Jose and Oza, Poojan and Hacihaliloglu, Ilker and Patel, Vishal M",
+    booktitle = "Medical Image Computing and Computer Assisted Intervention--MICCAI 2021: 24th International Conference, Strasbourg, France, September 27--October 1, 2021, Proceedings, Part I 24",
+    organization = "Springer",
+    pages = "36--46",
+    title = "{Medical Transformer: Gated Axial-Attention for Medical Image Segmentation}",
+    year = "2021"
+}
